@@ -1,0 +1,22 @@
+#nav-bar {
+    justify-content: left;
+}
+
+.nav-el {
+    width: 15rem;
+    height: 5rem;
+}
+
+#header-logo {
+    height: 50px;
+}
+
+.nav-logo {
+    height: 15px;
+}
+
+.nav-text {
+    font-size: 1.15rem;
+    margin-left: 7px;
+    margin-bottom: 2px;
+}
